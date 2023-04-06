@@ -6,3 +6,5 @@ function print() {
   }
 }
 print();
+
+//output: 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4

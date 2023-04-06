@@ -4,3 +4,5 @@ function print() {
   }
 }
 print();
+
+//output: 3 6 9 12 15
